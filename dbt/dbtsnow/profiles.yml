@@ -1,0 +1,13 @@
+dbtsnow:
+  outputs:
+    dev:
+      account: toputaccount
+      database: snowflake_sample_data
+      password: test
+      role: accountadmin
+      schema: tpcds_sf100tcl
+      threads: 1
+      type: snowflake
+      user: dgecer
+      warehouse: compute_wh
+  target: dev
