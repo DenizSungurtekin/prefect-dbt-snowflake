@@ -1,0 +1,7 @@
+numpy
+pandas
+boto3
+snowflake
+prefect
+prefect-dbt
+prefect-snowflake
